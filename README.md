@@ -1,7 +1,7 @@
 # MyProjects
 A collection of my Machine Learning and Deep Learning projects
 
-I begun learning Machine Learning at the beginnning of 2021. Since then I have covered topics like Regression, Classification, Clustering, Model Selection, Dimensionality Reduction, Neural Networks, Computer Vision (Image classification and image generation using GANs).
+I had begun learning Machine Learning at the beginnning of 2021. Since then I have covered topics like Regression, Classification, Clustering, Model Selection, Dimensionality Reduction, Neural Networks, Computer Vision (Image classification and image generation using GANs).
 
 Some of the included projects are:
 1. Water potability classification problem. Task : To predict whether water was drinkable or not (binary classification) based on 9 features.
