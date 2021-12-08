@@ -9,4 +9,4 @@ Some of the included projects are:
 3. Breast cancer logistic regression problem. Task : To predict whether a patient has breast cancer (Classification) based on features regarding cells.
 4. MNIST digit dataset. Task : To predict the digit (0-9) based on an image of the digit. Computer Vision problem solved using a Convolutional Neural Network.
 5. Dog and Cat dataset. Task : To classify images of dogs and cats (binary classification). Accuracy isn't explicitly mentioned but is around 98% for VGG16 model architecture.
-6. GAN (Generative Adversarial Network) to generate images of digits that look real via a police-thief technique.         
+   
